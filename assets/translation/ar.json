@@ -1,0 +1,22 @@
+{
+  "Delete":"الغاء",
+"Edit": "تعديل",
+"Add New Task": "اضافة مهمة جديدة",
+"Select Time":"اختر الوقت",
+"To Do List": "قائمة مهام",
+"Language": "اللغة",
+"Select Language": "اختر اللغة",
+"Select Mode": "اختر الوضع",
+"Mode": "الوضع",
+"English": "الانجليزية",
+"Arabic": "العربية",
+"Light": "وضع نهاري",
+"Dark": "وضع ليلي",
+"Done!!": "تم!!",
+"Enter Your Task": "اكتب المهمة خاصتك",
+"Edit Task": "عدّل المهمة",
+"Task title": "عنوان المهمة",
+"select date": "اختر الوقت",
+"Save Changes": "احفظ التعديلات"
+
+}
